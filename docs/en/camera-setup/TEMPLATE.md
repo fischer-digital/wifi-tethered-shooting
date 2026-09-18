@@ -44,6 +44,8 @@ Navigate to: `[Menu path]`
 | Auto Transfer | `On` / `Off` |
 | Target folder | `/` (root) |
 
+> ⚠️ **Set the folder/directory structure to "root only"** (not "like in camera"). Otherwise the camera creates subfolders via FTP and the app won't detect files correctly.
+
 #### File Type Settings
 
 > ⚠️ **Configure the camera to transfer JPG only.** RAW files cannot be displayed by the app and are too slow to transfer via WLAN.

@@ -9,7 +9,7 @@ An Android app that turns your device into a wireless tethered shooting station.
 No. Everything runs locally on your WLAN. You can even use a direct WLAN connection between your device and camera without any router.
 
 ### Does it work with my camera?
-The app works with any camera that supports WLAN-FTP transfer. This includes most modern cameras from Sony, Canon, Nikon, Fujifilm, and others. Check the [Camera Setup Guides](camera-setup/) for tested models.
+The app works with any camera that supports **live WLAN-FTP transfer during shooting** (i.e. the camera sends each photo automatically right after it's taken). Not all cameras with WLAN-FTP support can do this – for example, the Sony A7III supports live FTP transfer, but older models like the A7II do not. Check the [Camera Setup Guides](camera-setup/) for tested models.
 
 ### Is it free?
 Check the releases page for pricing/licensing information.

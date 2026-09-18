@@ -9,7 +9,7 @@ Eine Android-App, die dein Gerät in eine kabellose Tethering-Station verwandelt
 Nein. Alles läuft lokal in deinem WLAN. Du kannst sogar eine direkte WLAN-Verbindung zwischen Gerät und Kamera ohne Router verwenden.
 
 ### Funktioniert es mit meiner Kamera?
-Die App funktioniert mit jeder Kamera, die WLAN-FTP-Übertragung unterstützt. Dazu gehören die meisten modernen Kameras von Sony, Canon, Nikon, Fujifilm und anderen. Siehe die [Kamera-Anleitungen](camera-setup/) für getestete Modelle.
+Die App funktioniert mit jeder Kamera, die **live WLAN-FTP-Übertragung während des Shootings** unterstützt (d.h. die Kamera sendet jedes Foto automatisch direkt nach dem Auslösen). Nicht alle Kameras mit WLAN-FTP-Unterstützung können das – zum Beispiel unterstützt die Sony A7III live FTP-Transfer, ältere Modelle wie die A7II jedoch nicht. Siehe die [Kamera-Anleitungen](camera-setup/) für getestete Modelle.
 
 ### Ist es kostenlos?
 Infos zu Preis/Lizenz findest du auf der Releases-Seite.

@@ -44,6 +44,8 @@ Navigiere zu: `[Menüpfad]`
 | Auto-Transfer | `Ein` / `Aus` |
 | Zielordner | `/` (Wurzel) |
 
+> ⚠️ **Stelle die Ordnerstruktur auf "nur Wurzel" ein** (nicht "wie in der Kamera"). Sonst erstellt die Kamera Unterordner per FTP und die App erkennt die Dateien nicht korrekt.
+
 #### Dateityp-Einstellungen
 
 > ⚠️ **Stelle die Kamera so ein, dass nur JPG übertragen wird.** RAW-Dateien können von der App nicht angezeigt werden und sind zu langsam für die WLAN-Übertragung.

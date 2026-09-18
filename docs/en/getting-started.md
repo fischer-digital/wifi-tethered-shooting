@@ -36,6 +36,7 @@ Each camera brand has a different menu structure. The general steps are:
    - **Username:** `anonymous` (or leave blank)
    - **Password:** (leave blank)
    - **Passive Mode:** Yes (recommended)
+5. **Set the folder structure to "root only"** – do not use "like in camera" (which creates subfolders the app can't navigate)
 
 > 👉 See the [Camera Setup Guides](camera-setup/) for model-specific instructions!
 

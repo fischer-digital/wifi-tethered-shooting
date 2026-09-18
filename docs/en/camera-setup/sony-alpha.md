@@ -9,7 +9,7 @@
 
 ## Prerequisites
 
-- Sony Alpha camera with WLAN-FTP support (most models from A7III onwards)
+- Sony Alpha camera with WLAN-FTP support (most models from A7III onwards – the A7II does not support live FTP transfer)
 - Device and camera on the same WLAN network
 - FTP Tethered Shooting app installed and running
 
@@ -38,6 +38,8 @@
 | Passive Mode | **On** |
 | FTPS | **Auto** (or On) |
 
+> ⚠️ **Important:** Set the directory structure to **root only** (not "like in camera"). Otherwise the camera creates subfolders (e.g. `DCIM/date/...`) via FTP, and the app won't detect the files correctly.
+
 ### Step 3: Enable Auto Transfer & File Type
 
 1. Navigate to: **Network** → **FTP Transfer Function**
@@ -63,7 +65,7 @@
 
 ## Known Issues
 
-- None reported for Sony Alpha cameras with this setup
+- **Older models (A7II and below):** Do not support live FTP transfer during shooting. Only the A7III and newer models can send photos automatically while shooting.
 
 ## Screenshots
 

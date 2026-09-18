@@ -36,6 +36,7 @@ Jeder Kamerahersteller hat ein anderes Menü. Die allgemeinen Schritte sind:
    - **Benutzername:** `anonymous` (oder leer lassen)
    - **Passwort:** (leer lassen)
    - **Passiver Modus:** Ja (empfohlen)
+5. **Ordnerstruktur auf "nur Wurzel" einstellen** – nicht "wie in der Kamera" verwenden (denn dann werden Unterordner erstellt, die die App nicht erkennen kann)
 
 > 👉 Siehe die [Kamera-Anleitungen](camera-setup/) für modellspezifische Anweisungen!
 

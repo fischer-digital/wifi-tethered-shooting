@@ -33,4 +33,9 @@ For most cameras, these are the settings you'll need:
 | Transfer Mode | Passive |
 | Target Folder | `/` |
 
+> **Important requirements:**
+> - The camera must support **live FTP transfer during shooting** (sending photos automatically while you shoot)
+> - Set the **folder structure to "root only"** (not "like in camera") to avoid subfolder issues
+> - Configure the camera to send **JPG only** (not RAW)
+
 > **Note:** Menu paths and exact terminology vary by manufacturer. See the individual camera guides for model-specific instructions.

@@ -33,4 +33,9 @@ Für die meisten Kameras sind dies die benötigten Einstellungen:
 | Übertragungsmodus | Passiv |
 | Zielordner | `/` |
 
+> **Wichtige Voraussetzungen:**
+> - Die Kamera muss **live FTP-Transfer während des Shootings** unterstützen (Fotos automatisch beim Auslösen senden)
+> - Die **Ordnerstruktur auf "nur Wurzel"** einstellen (nicht "wie in der Kamera"), um Probleme mit Unterordnern zu vermeiden
+> - Die Kamera so einstellen, dass nur **JPG übertragen** wird (kein RAW)
+
 > **Hinweis:** Menüpfade und exakte Bezeichnungen variieren je nach Hersteller. Siehe die einzelnen Kamera-Anleitungen für modellspezifische Anweisungen.
