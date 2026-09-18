@@ -2,7 +2,7 @@
 
 ## Overview
 
-The app supports **FTPS (FTP over TLS)** for encrypted file transfers. This means photos are transmitted securely between your camera and phone, protecting against eavesdropping on the WLAN.
+The app supports **FTPS (FTP over TLS)** for encrypted file transfers. This means photos are transmitted securely between your camera and device, protecting against eavesdropping on the WLAN.
 
 ## How It Works
 

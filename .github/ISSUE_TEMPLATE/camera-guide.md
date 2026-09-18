@@ -23,7 +23,7 @@ Thank you for contributing a camera guide! Please fill in the details below, or 
 
 **Connection Type:** <!-- WLAN-FTP / FTPS -->
 **FTP Settings used:**
-- Host: (phone IP)
+- Host: (device IP)
 - Port: 2121
 - Username/Password: (app default)
 - FTPS: Yes/No
@@ -55,7 +55,7 @@ Vielen Dank für deine Kamera-Anleitung! Bitte fülle die Details unten aus, ode
 
 **Verbindungstyp:** <!-- WLAN-FTP / FTPS -->
 **FTP-Einstellungen:**
-- Host: (Handy-IP)
+- Host: (Geräte-IP)
 - Port: 2121
 - Benutzer/Passwort: (App-Standard)
 - FTPS: Ja/Nein

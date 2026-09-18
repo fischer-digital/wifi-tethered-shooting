@@ -20,7 +20,7 @@ When you open the app for the first time, you'll need to grant storage permissio
 
 1. Open the app
 2. Tap the **FTP button** to start the built-in FTP server
-3. The app will display your phone's **IP address** and the **port** (default: 2121)
+3. The app will display your device's **IP address** and the **port** (default: 2121)
 4. Note these down – you'll need them for your camera
 
 ### Step 2: Configure Your Camera
@@ -28,10 +28,10 @@ When you open the app for the first time, you'll need to grant storage permissio
 Each camera brand has a different menu structure. The general steps are:
 
 1. Go to your camera's **network/WLAN settings**
-2. Enable **WLAN** and connect to the **same network** as your phone (or connect directly)
+2. Enable **WLAN** and connect to the **same network** as your device (or connect directly)
 3. Find the **FTP transfer** or **image transfer** settings
 4. Enter the following:
-   - **FTP Server / Host:** Your phone's IP address (shown in the app)
+   - **FTP Server / Host:** Your device's IP address (shown in the app)
    - **Port:** `2121`
    - **Username:** `anonymous` (or leave blank)
    - **Password:** (leave blank)
@@ -42,7 +42,7 @@ Each camera brand has a different menu structure. The general steps are:
 ### Step 3: Take Photos
 
 1. Take a photo with your camera
-2. The camera sends it automatically via FTP to your phone
+2. The camera sends it automatically via FTP to your device
 3. The photo appears in the app's **live gallery**
 4. Tap a photo to view it full-screen with EXIF data
 

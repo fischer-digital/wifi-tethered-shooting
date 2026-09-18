@@ -3,10 +3,10 @@
 ## General / Allgemein
 
 ### What is FTP Tethered Shooting?
-An Android app that turns your phone into a wireless tethered shooting station. Your camera sends photos via WLAN-FTP directly to your phone, where they appear in a live gallery.
+An Android app that turns your device into a wireless tethered shooting station. Your camera sends photos via WLAN-FTP directly to your device, where they appear in a live gallery.
 
 ### Does it require an internet connection?
-No. Everything runs locally on your WLAN. You can even use a direct WLAN connection between your phone and camera without any router.
+No. Everything runs locally on your WLAN. You can even use a direct WLAN connection between your device and camera without any router.
 
 ### Does it work with my camera?
 The app works with any camera that supports WLAN-FTP transfer. This includes most modern cameras from Sony, Canon, Nikon, Fujifilm, and others. Check the [Camera Setup Guides](camera-setup/) for tested models.
@@ -22,7 +22,7 @@ No. All photos are stored locally on your Android device at `/storage/emulated/0
 ## Connection / Verbindung
 
 ### What WLAN setup should I use?
-**Recommended:** Both devices on the same studio WLAN. **Alternative:** Direct WLAN connection (camera as access point) or phone as mobile hotspot. See [FTP Server](features/ftp-server.md) for details.
+**Recommended:** Both devices on the same studio WLAN. **Alternative:** Direct WLAN connection (camera as access point) or device as mobile hotspot. See [FTP Server](features/ftp-server.md) for details.
 
 ### What port does it use?
 Port **2121**. This is a non-standard port to avoid conflicts with other FTP services.
@@ -69,7 +69,7 @@ Depends on your camera's file sizes. A typical JPEG is 5â€“15 MB, a RAW file 25â
 ### The app crashes on startup
 - Check that you've granted storage permissions
 - Try clearing the app's cache in Android settings
-- Restart your phone
+- Restart your device
 
 ### Photos transfer slowly
 - Check WLAN signal strength

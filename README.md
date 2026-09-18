@@ -8,9 +8,9 @@
 
 ## English
 
-### Live tethered shooting with your Android phone
+### Live tethered shooting with your Android phone or tablet
 
-An Android app that turns your phone into a **wireless tethered shooting station**. Connect your camera via WLAN-FTP and see every shot appear instantly in a live gallery – with ratings, EXIF data, and a fast, optimized grid view.
+An Android app that turns your device into a **wireless tethered shooting station**. Connect your camera via WLAN-FTP and see every shot appear instantly in a live gallery – with ratings, EXIF data, and a fast, optimized grid view.
 
 ### Features
 
@@ -26,7 +26,7 @@ An Android app that turns your phone into a **wireless tethered shooting station
 
 1. Install the APK on your Android device
 2. Open the app and start the FTP server
-3. Configure your camera to send photos via WLAN-FTP to your phone's IP address
+3. Configure your camera to send photos via WLAN-FTP to your device's IP address
 4. Take photos – they appear instantly in the gallery
 
 👉 **[Getting Started Guide (EN)](docs/en/getting-started.md)**
@@ -72,9 +72,9 @@ Documentation: [CC-BY-4.0](LICENSE)
 
 ## Deutsch
 
-### Live-Tethering mit deinem Android-Smartphone
+### Live-Tethering mit deinem Android-Tablet oder -Smartphone
 
-Eine Android-App, die dein Smartphone in eine **kabellose Tethering-Station** verwandelt. Verbinde deine Kamera per WLAN-FTP und sieh jedes Foto sofort in einer Live-Galerie – mit Bewertungen, EXIF-Daten und einer schnellen, optimierten Rasteransicht.
+Eine Android-App, die dein Gerät in eine **kabellose Tethering-Station** verwandelt. Verbinde deine Kamera per WLAN-FTP und sieh jedes Foto sofort in einer Live-Galerie – mit Bewertungen, EXIF-Daten und einer schnellen, optimierten Rasteransicht.
 
 ### Funktionen
 
@@ -90,7 +90,7 @@ Eine Android-App, die dein Smartphone in eine **kabellose Tethering-Station** ve
 
 1. Installiere die APK auf deinem Android-Gerät
 2. Öffne die App und starte den FTP-Server
-3. Konfiguriere deine Kamera, Fotos per WLAN-FTP an die IP-Adresse deines Smartphones zu senden
+3. Konfiguriere deine Kamera, Fotos per WLAN-FTP an die IP-Adresse deines Geräts zu senden
 4. Fotografiere – die Bilder erscheinen sofort in der Galerie
 
 👉 **[Erste-Schritte-Anleitung (DE)](docs/de/getting-started.md)**

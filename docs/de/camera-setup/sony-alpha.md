@@ -10,7 +10,7 @@
 ## Voraussetzungen
 
 - Sony Alpha Kamera mit WLAN-FTP-Unterstützung (die meisten Modelle ab A7III)
-- Handy und Kamera im selben WLAN-Netzwerk
+- Gerät und Kamera im selben WLAN-Netzwerk
 - FTP Tethered Shooting App installiert und gestartet
 
 ## Kamera einrichten
@@ -30,7 +30,7 @@
 | Einstellung | Wert |
 |---|---|
 | Servername | `ShootingStudio` (oder beliebiger Name) |
-| Host | `[IP deines Smartphones – wird in der App angezeigt]` |
+| Host | `[IP deines Geräts – wird in der App angezeigt]` |
 | Port | `2121` |
 | Verzeichnis | `/` |
 | Benutzername | `anonymous` |
@@ -48,12 +48,12 @@
 
 1. Starte den FTP-Server in der App (FTP-Button tippen)
 2. Auf der Kamera: **Netzwerk** → **FTP-Übertragungsfunktion** → **FTP-Verbinden**
-3. Die Kamera verbindet sich mit dem Smartphone
+3. Die Kamera verbindet sich mit dem Gerät
 4. Fotografiere – die Bilder werden automatisch in die Galerie der App übertragen
 
 ## Tipps
 
-- **Direktverbindung:** Du kannst die Kamera direkt mit dem Smartphone verbinden ohne Router. Erstelle auf der Kamera einen WLAN-Access-Point und verbinde das Smartphone damit.
+- **Direktverbindung:** Du kannst die Kamera direkt mit dem Gerät verbinden ohne Router. Erstelle auf der Kamera einen WLAN-Access-Point und verbinde das Gerät damit.
 - **RAW + JPEG:** Wenn du RAW+JPEG fotografierst, kannst du in den FTP-Einstellungen konfigurieren, welche Dateien übertragen werden
 - **Akku:** WLAN-Übertragung verbraucht mehr Akku – erwäge einen Akkugriff für lange Shootings
 - **FTPS:** Sony-Kameras unterstützen FTPS nativ. Der Explicit-FTP-Modus der App funktioniert nahtlos.

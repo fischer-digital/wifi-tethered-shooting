@@ -3,10 +3,10 @@
 ## Allgemein
 
 ### Was ist FTP Tethered Shooting?
-Eine Android-App, die dein Smartphone in eine kabellose Tethering-Station verwandelt. Deine Kamera sendet Fotos per WLAN-FTP direkt an dein Smartphone, wo sie in einer Live-Galerie erscheinen.
+Eine Android-App, die dein Gerät in eine kabellose Tethering-Station verwandelt. Deine Kamera sendet Fotos per WLAN-FTP direkt an dein Gerät, wo sie in einer Live-Galerie erscheinen.
 
 ### Brauche ich eine Internetverbindung?
-Nein. Alles läuft lokal in deinem WLAN. Du kannst sogar eine direkte WLAN-Verbindung zwischen Smartphone und Kamera ohne Router verwenden.
+Nein. Alles läuft lokal in deinem WLAN. Du kannst sogar eine direkte WLAN-Verbindung zwischen Gerät und Kamera ohne Router verwenden.
 
 ### Funktioniert es mit meiner Kamera?
 Die App funktioniert mit jeder Kamera, die WLAN-FTP-Übertragung unterstützt. Dazu gehören die meisten modernen Kameras von Sony, Canon, Nikon, Fujifilm und anderen. Siehe die [Kamera-Anleitungen](camera-setup/) für getestete Modelle.
@@ -22,7 +22,7 @@ Nein. Alle Fotos werden lokal auf deinem Android-Gerät gespeichert unter `/stor
 ## Verbindung
 
 ### Welches WLAN-Setup soll ich verwenden?
-**Empfohlen:** Beide Geräte im selben Studio-WLAN. **Alternative:** Direkte WLAN-Verbindung (Kamera als Access Point) oder Smartphone als mobiler Hotspot. Details unter [FTP-Server](features/ftp-server.md).
+**Empfohlen:** Beide Geräte im selben Studio-WLAN. **Alternative:** Direkte WLAN-Verbindung (Kamera als Access Point) oder Gerät als mobiler Hotspot. Details unter [FTP-Server](features/ftp-server.md).
 
 ### Welchen Port benutzt die App?
 Port **2121**. Das ist ein nicht-standardisierter Port, um Konflikte mit anderen FTP-Diensten zu vermeiden.
@@ -69,7 +69,7 @@ Hängt von den Dateigrößen deiner Kamera ab. Ein typisches JPEG ist 5–15 MB,
 ### Die App stürzt beim Start ab
 - Prüfe, ob du Speicherberechtigungen erteilt hast
 - Versuche den App-Cache in den Android-Einstellungen zu löschen
-- Starte dein Smartphone neu
+- Starte dein Gerät neu
 
 ### Fotos werden langsam übertragen
 - Prüfe die WLAN-Signalstärke

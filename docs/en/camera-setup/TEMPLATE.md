@@ -18,7 +18,7 @@
 ### Prerequisites
 
 - Camera with WLAN-FTP capability
-- Phone and camera on the same WLAN network (or direct WLAN connection)
+- Device and camera on the same WLAN network (or direct WLAN connection)
 - FTP Tethered Shooting app installed and running
 
 ### Camera Settings
@@ -35,7 +35,7 @@ Navigate to: `[Menu path]`
 
 | Setting | Value |
 |---|---|
-| FTP Server / Host | `[your phone's IP, shown in app]` |
+| FTP Server / Host | `[your device's IP, shown in app]` |
 | Port | `2121` |
 | Username | `anonymous` |
 | Password | *(leave blank)* |

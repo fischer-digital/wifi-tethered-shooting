@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-Die App unterstützt **FTPS (FTP über TLS)** für verschlüsselte Dateiübertragungen. Das bedeutet, dass Fotos sicher zwischen deiner Kamera und deinem Smartphone übertragen werden und vor Mitlesen im WLAN geschützt sind.
+Die App unterstützt **FTPS (FTP über TLS)** für verschlüsselte Dateiübertragungen. Das bedeutet, dass Fotos sicher zwischen deiner Kamera und deinem Gerät übertragen werden und vor Mitlesen im WLAN geschützt sind.
 
 ## So funktioniert es
 

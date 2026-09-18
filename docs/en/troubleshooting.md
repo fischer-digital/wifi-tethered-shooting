@@ -4,18 +4,18 @@
 
 ### Camera can't connect to the FTP server
 
-1. **Check IP address** – Make sure you're using the IP address shown in the app, not your phone's mobile data IP
-2. **Same network** – Phone and camera must be on the same WLAN network
+1. **Check IP address** – Make sure you're using the IP address shown in the app, not your device's mobile data IP
+2. **Same network** – Device and camera must be on the same WLAN network
 3. **Port number** – Use port `2121` (some cameras default to port 21)
 4. **Passive mode** – Enable passive/extended passive mode on the camera
-5. **Firewall** – Some WLAN routers block FTP. Try a direct WLAN connection between phone and camera
+5. **Firewall** – Some WLAN routers block FTP. Try a direct WLAN connection between device and camera
 
 ### Connection drops during shooting
 
 - Check WLAN signal strength on both devices
 - Move closer to the WLAN router or use direct connection
 - Some cameras have a WLAN sleep timer – disable it in camera settings
-- Check if the phone's battery saver mode is interfering
+- Check if the device's battery saver mode is interfering
 
 ### Camera says "Connection refused"
 
@@ -85,7 +85,7 @@
 - Cache cleanup happens automatically (LRU eviction at 10,000+ entries)
 - For very large shoots (1000+ photos), consider clearing old photos periodically
 
-### Phone gets warm during long shoots
+### Device gets warm during long shoots
 
 - This is normal when processing many photos
 - The app uses efficient native thumbnail generation

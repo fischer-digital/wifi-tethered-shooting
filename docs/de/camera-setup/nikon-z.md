@@ -10,7 +10,7 @@ Nikon Z Kameras mit WLAN-FTP-Unterstützung sollten mit folgenden allgemeinen Ei
 
 | Einstellung | Wert |
 |---|---|
-| FTP-Server / Host | IP deines Smartphones (wird in der App angezeigt) |
+| FTP-Server / Host | IP deines Geräts (wird in der App angezeigt) |
 | Port | `2121` |
 | Benutzername | `anonymous` |
 | Passwort | *(leer lassen)* |

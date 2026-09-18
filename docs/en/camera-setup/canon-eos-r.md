@@ -10,7 +10,7 @@ Canon EOS R cameras with WLAN-FTP support should work with the following general
 
 | Setting | Value |
 |---|---|
-| FTP Server / Host | Your phone's IP (shown in the app) |
+| FTP Server / Host | Your device's IP (shown in the app) |
 | Port | `2121` |
 | Username | `anonymous` |
 | Password | *(leave blank)* |

@@ -4,18 +4,18 @@
 
 ### Kamera kann sich nicht mit dem FTP-Server verbinden
 
-1. **IP-Adresse prüfen** – Stelle sicher, dass du die in der App angezeigte IP-Adresse verwendest, nicht die mobile Daten-IP deines Smartphones
-2. **Selbes Netzwerk** – Handy und Kamera müssen im selben WLAN-Netzwerk sein
+1. **IP-Adresse prüfen** – Stelle sicher, dass du die in der App angezeigte IP-Adresse verwendest, nicht die mobile Daten-IP deines Geräts
+2. **Selbes Netzwerk** – Gerät und Kamera müssen im selben WLAN-Netzwerk sein
 3. **Portnummer** – Verwende Port `2121` (manche Kameras verwenden standardmäßig Port 21)
 4. **Passiver Modus** – Aktiviere den passiven/erweiterten passiven Modus auf der Kamera
-5. **Firewall** – Manche WLAN-Router blockieren FTP. Versuche eine direkte WLAN-Verbindung zwischen Handy und Kamera
+5. **Firewall** – Manche WLAN-Router blockieren FTP. Versuche eine direkte WLAN-Verbindung zwischen Gerät und Kamera
 
 ### Verbindung bricht während des Shootings ab
 
 - Prüfe die WLAN-Signalstärke auf beiden Geräten
 - Gehe näher an den WLAN-Router oder verwende eine direkte Verbindung
 - Manche Kameras haben einen WLAN-Sleep-Timer – deaktiviere ihn in den Kameraeinstellungen
-- Prüfe, ob der Energiesparmodus des Smartphones stört
+- Prüfe, ob der Energiesparmodus des Geräts stört
 
 ### Kamera meldet "Verbindung abgelehnt"
 
@@ -85,7 +85,7 @@
 - Cache-Bereinigung passiert automatisch (LRU-Bereinigung bei 10.000+ Einträgen)
 - Bei sehr großen Shootings (1000+ Fotos): erwäge, alte Fotos regelmäßig zu löschen
 
-### Handy wird warm bei langen Shootings
+### Gerät wird warm bei langen Shootings
 
 - Das ist normal bei der Verarbeitung vieler Fotos
 - Die App verwendet effiziente native Thumbnail-Generierung
