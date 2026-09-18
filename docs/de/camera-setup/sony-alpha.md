@@ -9,7 +9,7 @@
 
 ## Voraussetzungen
 
-- Sony Alpha Kamera mit WLAN-FTP-Unterstützung (die meisten Modelle ab A7III – die A7II unterstützt keinen live FTP-Transfer)
+- Sony Alpha Kamera mit WLAN-FTP-Unterstützung (die meisten Modelle ab A7III – ältere Modelle unterstützen ggf. keinen live FTP-Transfer)
 - Gerät und Kamera im selben WLAN-Netzwerk
 - FTP Tethered Shooting App installiert und gestartet
 
@@ -65,7 +65,7 @@
 
 ## Bekannte Probleme
 
-- **Ältere Modelle (A7II und älter):** Unterstützen keinen live FTP-Transfer während des Shootings. Nur die A7III und neuere Modelle können Fotos automatisch während des Shootings senden.
+- **Ältere Modelle:** Manche älteren Sony Alpha Modelle (z.B. A7II und früher) unterstützen möglicherweise keinen live FTP-Transfer während des Shootings. Nur Modelle ab A7III wurden bisher bestätigt.
 
 ## Screenshots
 

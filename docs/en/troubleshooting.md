@@ -41,7 +41,7 @@
 ### Camera sends files but app doesn't receive them
 
 - Check the FTP target folder on the camera – it should be `/` (root)
-- Verify the storage path in the app: `/storage/emulated/0/ShootingStudio/`
+- Verify the storage path in the app: `DCIM/FTP Tethered Shooting`
 - Check Android storage permissions (see below)
 
 ## Permission Issues

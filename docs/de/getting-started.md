@@ -55,8 +55,9 @@ Jeder Kamerahersteller hat ein anderes Menü. Die allgemeinen Schritte sind:
 
 Fotos werden gespeichert unter:
 ```
-/storage/emulated/0/ShootingStudio/
+DCIM/FTP Tethered Shooting
 ```
+(voller Pfad: `/storage/emulated/0/DCIM/FTP Tethered Shooting`)
 
 Du findest sie in jedem Dateimanager oder jeder Galerie-App.
 

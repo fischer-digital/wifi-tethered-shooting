@@ -9,13 +9,13 @@ Eine Android-App, die dein Gerät in eine kabellose Tethering-Station verwandelt
 Nein. Alles läuft lokal in deinem WLAN. Du kannst sogar eine direkte WLAN-Verbindung zwischen Gerät und Kamera ohne Router verwenden.
 
 ### Funktioniert es mit meiner Kamera?
-Die App funktioniert mit jeder Kamera, die **live WLAN-FTP-Übertragung während des Shootings** unterstützt (d.h. die Kamera sendet jedes Foto automatisch direkt nach dem Auslösen). Nicht alle Kameras mit WLAN-FTP-Unterstützung können das – zum Beispiel unterstützt die Sony A7III live FTP-Transfer, ältere Modelle wie die A7II jedoch nicht. Siehe die [Kamera-Anleitungen](camera-setup/) für getestete Modelle.
+Die App funktioniert mit jeder Kamera, die **live WLAN-FTP-Übertragung während des Shootings** unterstützt (d.h. die Kamera sendet jedes Foto automatisch direkt nach dem Auslösen). Nicht alle Kameras mit WLAN-FTP-Unterstützung können das – zum Beispiel unterstützt die Sony A7III live FTP-Transfer, ältere Modelle wie die A7II jedoch möglicherweise nicht. Siehe die [Kamera-Anleitungen](camera-setup/) für getestete Modelle.
 
 ### Ist es kostenlos?
 Infos zu Preis/Lizenz findest du auf der Releases-Seite.
 
 ### Werden meine Fotos in die Cloud hochgeladen?
-Nein. Alle Fotos werden lokal auf deinem Android-Gerät gespeichert unter `/storage/emulated/0/ShootingStudio/`.
+Nein. Alle Fotos werden lokal auf deinem Android-Gerät gespeichert unter `DCIM/FTP Tethered Shooting`.
 
 ---
 
@@ -52,8 +52,9 @@ Das ist normal bei selbst-signierten Zertifikaten. Akzeptiere das Zertifikat –
 
 ### Wo werden Fotos gespeichert?
 ```
-/storage/emulated/0/ShootingStudio/
+DCIM/FTP Tethered Shooting
 ```
+(voller Pfad: `/storage/emulated/0/DCIM/FTP Tethered Shooting`)
 Du kannst diesen Ordner mit jedem Dateimanager oder jeder Galerie-App erreichen.
 
 ### Kann ich den Speicherort ändern?

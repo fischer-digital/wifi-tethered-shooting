@@ -62,7 +62,7 @@ Fotos sind standardmäßig mit dem **neuesten zuerst** sortiert. Wenn während e
 
 | Eigenschaft | Wert |
 |---|---|
-| Speicherort | `/storage/emulated/0/ShootingStudio/` |
+| Speicherort | `DCIM/FTP Tethered Shooting` |
 | Dateibenennung | Verwendet den originalen Kamera-Dateinamen |
 | Cache | SQLite-Datenbank für Thumbnails, EXIF, Bewertungen |
 | Cache-Bereinigung | Automatische LRU-Bereinigung (>10.000 Einträge) |

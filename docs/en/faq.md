@@ -9,13 +9,13 @@ An Android app that turns your device into a wireless tethered shooting station.
 No. Everything runs locally on your WLAN. You can even use a direct WLAN connection between your device and camera without any router.
 
 ### Does it work with my camera?
-The app works with any camera that supports **live WLAN-FTP transfer during shooting** (i.e. the camera sends each photo automatically right after it's taken). Not all cameras with WLAN-FTP support can do this – for example, the Sony A7III supports live FTP transfer, but older models like the A7II do not. Check the [Camera Setup Guides](camera-setup/) for tested models.
+The app works with any camera that supports **live WLAN-FTP transfer during shooting** (i.e. the camera sends each photo automatically right after it's taken). Not all cameras with WLAN-FTP support can do this – for example, the Sony A7III supports live FTP transfer, but older models like the A7II may not. Check the [Camera Setup Guides](camera-setup/) for tested models.
 
 ### Is it free?
 Check the releases page for pricing/licensing information.
 
 ### Does it upload my photos to the cloud?
-No. All photos are stored locally on your Android device at `/storage/emulated/0/ShootingStudio/`.
+No. All photos are stored locally on your Android device at `DCIM/FTP Tethered Shooting`.
 
 ---
 
@@ -52,8 +52,9 @@ This is normal with self-signed certificates. Accept the certificate – it's ge
 
 ### Where are photos saved?
 ```
-/storage/emulated/0/ShootingStudio/
+DCIM/FTP Tethered Shooting
 ```
+(full path: `/storage/emulated/0/DCIM/FTP Tethered Shooting`)
 You can access this folder with any file manager or gallery app.
 
 ### Can I change the storage location?
