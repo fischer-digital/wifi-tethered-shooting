@@ -58,7 +58,7 @@ DCIM/FTP Tethered Shooting
 Du kannst diesen Ordner mit jedem Dateimanager oder jeder Galerie-App erreichen.
 
 ### Kann ich den Speicherort ändern?
-Der Speicherort ist derzeit festgelegt. Das gewährleistet konsistentes Verhalten und Kompatibilität mit den Android-Speicherberechtigungen.
+Ja. Du kannst den Ordner in den App-Einstellungen ändern. Tippe auf das Stift-Symbol neben dem Ordnerpfad, um den Ordnerauswahl-Dialog zu öffnen.
 
 ### Kann ich RAW-Dateien übertragen?
 Nein. Die App unterstützt nur JPG-Dateien. RAW-Dateien können nicht angezeigt werden und sind zu groß für eine schnelle WLAN-Übertragung. Stelle deine Kamera so ein, dass nur JPGs per FTP gesendet werden – eine mittlere Qualität (z.B. 6M) reicht für die Live-Bewertung. RAW-Dateien verbleiben auf der Speicherkarte der Kamera und können nach dem Shooting in deinem eigenen Workflow verarbeitet werden.

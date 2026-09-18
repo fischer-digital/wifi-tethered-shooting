@@ -58,7 +58,7 @@ DCIM/FTP Tethered Shooting
 You can access this folder with any file manager or gallery app.
 
 ### Can I change the storage location?
-Currently, the storage location is fixed. This ensures consistent behavior and compatibility with Android's storage permissions.
+Yes. You can change the folder in the app settings. Tap the pen icon next to the folder path to open the folder picker.
 
 ### Can I transfer RAW files?
 No. The app only supports JPG files. RAW files cannot be displayed and are too large for fast WLAN transfer. Configure your camera to send only JPGs via FTP – a medium quality (e.g. 6M) is sufficient for live review. RAW files stay on the camera's memory card and can be processed in your own workflow after the shoot.
