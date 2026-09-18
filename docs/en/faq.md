@@ -12,7 +12,7 @@ No. Everything runs locally on your WLAN. You can even use a direct WLAN connect
 The app works with any camera that supports **live WLAN-FTP transfer during shooting** (i.e. the camera sends each photo automatically right after it's taken). Not all cameras with WLAN-FTP support can do this – for example, the Sony A7III supports live FTP transfer, but older models like the A7II may not. Check the [Camera Setup Guides](camera-setup/) for tested models.
 
 ### Is it free?
-Check the releases page for pricing/licensing information.
+The current price is listed on the [Google Play Store](https://play.google.com/store/apps/details?id=de.fischerdigital.shootingstudio).
 
 ### Does it upload my photos to the cloud?
 No. All photos are stored locally on your Android device at `DCIM/FTP Tethered Shooting`.

@@ -12,7 +12,7 @@ Nein. Alles läuft lokal in deinem WLAN. Du kannst sogar eine direkte WLAN-Verbi
 Die App funktioniert mit jeder Kamera, die **live WLAN-FTP-Übertragung während des Shootings** unterstützt (d.h. die Kamera sendet jedes Foto automatisch direkt nach dem Auslösen). Nicht alle Kameras mit WLAN-FTP-Unterstützung können das – zum Beispiel unterstützt die Sony A7III live FTP-Transfer, ältere Modelle wie die A7II jedoch möglicherweise nicht. Siehe die [Kamera-Anleitungen](camera-setup/) für getestete Modelle.
 
 ### Ist es kostenlos?
-Infos zu Preis/Lizenz findest du auf der Releases-Seite.
+Den aktuellen Preis findest du im [Google Play Store](https://play.google.com/store/apps/details?id=de.fischerdigital.shootingstudio).
 
 ### Werden meine Fotos in die Cloud hochgeladen?
 Nein. Alle Fotos werden lokal auf deinem Android-Gerät gespeichert unter `DCIM/FTP Tethered Shooting`.
