@@ -2,7 +2,9 @@
 
 ## Live Gallery
 
-The app's gallery shows all photos received from your camera in a fast, optimized grid view.
+The app's gallery shows all JPG photos received from your camera in a fast, optimized grid view.
+
+> **Note:** Only JPG files are supported. RAW files are not displayed and should not be configured for FTP transfer.
 
 ### How It Works
 

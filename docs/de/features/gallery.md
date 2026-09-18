@@ -2,7 +2,9 @@
 
 ## Live-Galerie
 
-Die Galerie der App zeigt alle von deiner Kamera empfangenen Fotos in einer schnellen, optimierten Rasteransicht.
+Die Galerie der App zeigt alle von deiner Kamera empfangenen JPG-Fotos in einer schnellen, optimierten Rasteransicht.
+
+> **Hinweis:** Es werden nur JPG-Dateien unterstützt. RAW-Dateien werden nicht angezeigt und sollten nicht für den FTP-Transfer konfiguriert werden.
 
 ### So funktioniert es
 

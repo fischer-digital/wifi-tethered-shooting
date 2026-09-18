@@ -44,6 +44,17 @@ Navigate to: `[Menu path]`
 | Auto Transfer | `On` / `Off` |
 | Target folder | `/` (root) |
 
+#### File Type Settings
+
+> ⚠️ **Configure the camera to transfer JPG only.** RAW files cannot be displayed by the app and are too slow to transfer via WLAN.
+
+| Setting | Value |
+|---|---|
+| File type to transfer | **JPG only** |
+| JPG quality / size | **Medium – Fine, max. ~6M** (sufficient for live review) |
+
+**Note:** RAW files stay on the camera's memory card. Process them in your own workflow after the shoot.
+
 ### Step-by-Step
 
 1. **[Step 1]**

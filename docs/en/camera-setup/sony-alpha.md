@@ -38,11 +38,13 @@
 | Passive Mode | **On** |
 | FTPS | **Auto** (or On) |
 
-### Step 3: Enable Auto Transfer
+### Step 3: Enable Auto Transfer & File Type
 
 1. Navigate to: **Network** → **FTP Transfer Function**
 2. Set **Auto Transfer** to **On**
-3. Choose which file types to transfer (JPEG, RAW, or both)
+3. **Set file type to JPG only** – do not transfer RAW files (see note below)
+
+> ⚠️ **JPG only!** Configure the camera to send only JPG files via FTP. The app cannot display RAW files, and only JPGs transfer fast enough over WLAN. A medium JPG quality (e.g. 6M / Fine) is sufficient for live review. Your RAW files stay on the memory card for later processing.
 
 ### Step 4: Connect and Shoot
 
@@ -54,7 +56,8 @@
 ## Tips
 
 - **Direct Connection:** You can connect the camera directly to the device without a router. On the camera, create a WLAN access point, then connect the device to it.
-- **RAW + JPEG:** If you shoot RAW+JPEG, you can configure which files to transfer in the FTP settings
+- **JPG Quality:** Set JPG quality to medium (e.g. 6M) – this is sufficient for live review and keeps transfer speed fast. Avoid large/fine JPG sizes.
+- **RAW stays on card:** Always keep RAW files on the camera's memory card. They are processed in your own workflow after the shoot.
 - **Battery:** WLAN transfer uses more battery – consider using a battery grip for long shoots
 - **FTPS:** Sony cameras support FTPS natively. The app's Explicit FTPS mode works seamlessly.
 

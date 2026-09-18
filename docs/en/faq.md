@@ -59,8 +59,11 @@ You can access this folder with any file manager or gallery app.
 ### Can I change the storage location?
 Currently, the storage location is fixed. This ensures consistent behavior and compatibility with Android's storage permissions.
 
+### Can I transfer RAW files?
+No. The app only supports JPG files. RAW files cannot be displayed and are too large for fast WLAN transfer. Configure your camera to send only JPGs via FTP – a medium quality (e.g. 6M) is sufficient for live review. RAW files stay on the camera's memory card and can be processed in your own workflow after the shoot.
+
 ### How much storage do I need?
-Depends on your camera's file sizes. A typical JPEG is 5–15 MB, a RAW file 25–60 MB. For a 500-photo shoot, plan for 5–30 GB.
+Depends on your camera's JPG file sizes. With medium quality JPGs (e.g. 6M), a typical file is 2–5 MB. For a 500-photo shoot, plan for 1–3 GB.
 
 ---
 
@@ -72,6 +75,9 @@ Depends on your camera's file sizes. A typical JPEG is 5–15 MB, a RAW file 25�
 - Restart your device
 
 ### Photos transfer slowly
+
+- Make sure you're transferring **JPG only** – RAW files are too slow over WLAN
+- Reduce JPG quality to medium (e.g. 6M) for faster transfers
 - Check WLAN signal strength
 - Use 5 GHz WLAN if available (faster than 2.4 GHz)
 - Avoid crowded WLAN channels

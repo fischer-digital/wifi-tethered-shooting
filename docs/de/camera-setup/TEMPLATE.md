@@ -44,6 +44,17 @@ Navigiere zu: `[Menüpfad]`
 | Auto-Transfer | `Ein` / `Aus` |
 | Zielordner | `/` (Wurzel) |
 
+#### Dateityp-Einstellungen
+
+> ⚠️ **Stelle die Kamera so ein, dass nur JPG übertragen wird.** RAW-Dateien können von der App nicht angezeigt werden und sind zu langsam für die WLAN-Übertragung.
+
+| Einstellung | Wert |
+|---|---|
+| Zu übertragender Dateityp | **Nur JPG** |
+| JPG-Qualität / -Größe | **Mittel – Fein, max. ~6M** (reicht für Live-Bewertung) |
+
+**Hinweis:** RAW-Dateien verbleiben auf der Speicherkarte der Kamera. Verarbeite sie nach dem Shooting in deinem eigenen Workflow.
+
 ### Schritt-für-Schritt
 
 1. **[Schritt 1]**

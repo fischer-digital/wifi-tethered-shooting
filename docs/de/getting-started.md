@@ -39,7 +39,11 @@ Jeder Kamerahersteller hat ein anderes Menü. Die allgemeinen Schritte sind:
 
 > 👉 Siehe die [Kamera-Anleitungen](camera-setup/) für modellspezifische Anweisungen!
 
-### Schritt 3: Fotos aufnehmen
+### Schritt 3: Dateitypen konfigurieren (Wichtig!)
+
+> ⚠️ **Stelle deine Kamera so ein, dass nur JPG-Dateien per FTP übertragen werden.** Die App kann RAW-Dateien nicht anzeigen, und nur JPGs sind schnell genug über WLAN. Eine mittlere JPG-Qualität (z.B. 6M / Fein) reicht für die Live-Bewertung völlig aus – so bleibt die Übertragungsgeschwindigkeit hoch und der Speicherverbrauch gering. Deine RAW-Dateien verbleiben auf der Speicherkarte der Kamera und können später in deinem eigenen Workflow verarbeitet werden.
+
+### Schritt 4: Fotos aufnehmen
 
 1. Mache ein Foto mit deiner Kamera
 2. Die Kamera sendet es automatisch per FTP an dein Gerät

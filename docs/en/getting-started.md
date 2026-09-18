@@ -39,7 +39,11 @@ Each camera brand has a different menu structure. The general steps are:
 
 > 👉 See the [Camera Setup Guides](camera-setup/) for model-specific instructions!
 
-### Step 3: Take Photos
+### Step 3: Configure File Types (Important!)
+
+> ⚠️ **Only configure your camera to transfer JPG files via FTP.** The app cannot display RAW files, and only JPGs transfer fast enough over WLAN. A medium JPG quality (e.g. 6M / fine) is fully sufficient for live review – this keeps transfer speed fast and storage usage low. Your RAW files stay on the camera's memory card and can be processed in your own workflow later.
+
+### Step 4: Take Photos
 
 1. Take a photo with your camera
 2. The camera sends it automatically via FTP to your device
