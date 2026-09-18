@@ -28,7 +28,7 @@ No. All photos are stored locally on your Android device at `DCIM/FTP Tethered S
 Port **2121**. This is a non-standard port to avoid conflicts with other FTP services.
 
 ### Do I need a username and password?
-No. The server uses anonymous access by default. No login required.
+Yes. The app generates a random password by default (min. 4 digits). Username and password are shown in the app – enter them in your camera's FTP settings. You can customize both in the app settings.
 
 ### Why does my camera default to port 21?
 Some cameras default to the standard FTP port (21). Change it to **2121** in the camera's FTP settings.

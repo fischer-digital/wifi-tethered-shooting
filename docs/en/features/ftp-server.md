@@ -10,7 +10,7 @@ The app includes a built-in FTP server that runs on your Android device. Your ca
 |---|---|
 | Protocol | FTP (with optional FTPS) |
 | Default Port | `2121` |
-| Authentication | Anonymous (no login required) |
+| Authentication | Username + password (shown in app) |
 | Transfer Mode | Passive |
 | Storage Path | `DCIM/FTP Tethered Shooting` |
 

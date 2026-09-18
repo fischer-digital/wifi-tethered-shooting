@@ -12,8 +12,8 @@ Nikon Z cameras with WLAN-FTP support should work with the following general set
 |---|---|
 | FTP Server / Host | Your device's IP (shown in the app) |
 | Port | `2121` |
-| Username | `anonymous` |
-| Password | *(leave blank)* |
+| Username | `camera` (default, adjustable in app settings) |
+| Password | Auto-generated (shown in app, adjustable in settings) |
 | Transfer Mode | Passive |
 
 ### General Nikon Menu Path

@@ -37,8 +37,8 @@ Navigiere zu: `[Menüpfad]`
 |---|---|
 | FTP-Server / Host | `[IP deines Geräts, wird in der App angezeigt]` |
 | Port | `2121` |
-| Benutzername | `anonymous` |
-| Passwort | *(leer lassen)* |
+| Benutzername | `camera` (Standard, in App-Einstellungen änderbar) |
+| Passwort | Automatisch generiert (wird in der App angezeigt, in Einstellungen änderbar) |
 | Übertragungsmodus | `Passiv` |
 | FTPS / TLS | `Ja` / `Nein` / `Auto` |
 | Auto-Transfer | `Ein` / `Aus` |

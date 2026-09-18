@@ -33,8 +33,8 @@ Jeder Kamerahersteller hat ein anderes Menü. Die allgemeinen Schritte sind:
 4. Gib folgende Werte ein:
    - **FTP-Server / Host:** Die IP-Adresse deines Geräts (wird in der App angezeigt)
    - **Port:** `2121`
-   - **Benutzername:** `anonymous` (oder leer lassen)
-   - **Passwort:** (leer lassen)
+   - **Benutzername:** wie in der App angezeigt (Standard: `camera`)
+   - **Passwort:** wie in der App angezeigt (wird automatisch generiert, kann in den Einstellungen geändert werden)
    - **Passiver Modus:** Ja (empfohlen)
 5. **Ordnerstruktur auf "nur Wurzel" einstellen** – nicht "wie in der Kamera" verwenden (denn dann werden Unterordner erstellt, die die App nicht erkennen kann)
 

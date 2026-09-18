@@ -33,8 +33,8 @@ Each camera brand has a different menu structure. The general steps are:
 4. Enter the following:
    - **FTP Server / Host:** Your device's IP address (shown in the app)
    - **Port:** `2121`
-   - **Username:** `anonymous` (or leave blank)
-   - **Password:** (leave blank)
+   - **Username:** as shown in the app (default: `camera`)
+   - **Password:** as shown in the app (auto-generated, can be changed in settings)
    - **Passive Mode:** Yes (recommended)
 5. **Set the folder structure to "root only"** – do not use "like in camera" (which creates subfolders the app can't navigate)
 

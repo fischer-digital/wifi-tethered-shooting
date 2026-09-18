@@ -33,8 +33,8 @@
 | Host | `[IP deines Geräts – wird in der App angezeigt]` |
 | Port | `2121` |
 | Verzeichnis | `/` |
-| Benutzername | `anonymous` |
-| Passwort | *(leer lassen)* |
+| Benutzername | `camera` (Standard, in App-Einstellungen änderbar) |
+| Passwort | Automatisch generiert (wird in der App angezeigt, in Einstellungen änderbar) |
 | Passiver Modus | **Ein** |
 | FTPS | **Auto** (oder Ein) |
 

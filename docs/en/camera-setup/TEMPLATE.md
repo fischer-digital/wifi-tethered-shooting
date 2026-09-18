@@ -37,8 +37,8 @@ Navigate to: `[Menu path]`
 |---|---|
 | FTP Server / Host | `[your device's IP, shown in app]` |
 | Port | `2121` |
-| Username | `anonymous` |
-| Password | *(leave blank)* |
+| Username | `camera` (default, adjustable in app settings) |
+| Password | Auto-generated (shown in app, adjustable in settings) |
 | Transfer mode | `Passive` |
 | FTPS / TLS | `Yes` / `No` / `Auto` |
 | Auto Transfer | `On` / `Off` |
