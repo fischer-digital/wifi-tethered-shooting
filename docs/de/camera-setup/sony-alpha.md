@@ -1,0 +1,69 @@
+# Sony Alpha Serie
+
+**Status:** ✅ Funktioniert
+
+**Getestete Modelle:** Sony A7-Serie, A7R-Serie, A7S-Serie, A9, A1 (WLAN-FTP-fähige Modelle)
+**Getestet:** 2026
+
+---
+
+## Voraussetzungen
+
+- Sony Alpha Kamera mit WLAN-FTP-Unterstützung (die meisten Modelle ab A7III)
+- Handy und Kamera im selben WLAN-Netzwerk
+- FTP Tethered Shooting App installiert und gestartet
+
+## Kamera einrichten
+
+### Schritt 1: WLAN an der Kamera aktivieren
+
+1. Drücke die **Menu**-Taste
+2. Navigiere zu: **Netzwerk** → **WLAN-Einstellungen** → **WLAN**
+3. Auf **Ein** setzen
+4. Mit deinem Studio-WLAN-Netzwerk verbinden
+
+### Schritt 2: FTP-Übertragung konfigurieren
+
+1. Navigiere zu: **Netzwerk** → **FTP-Übertragungsfunktion** → **FTP-Verbindungseinstellung**
+2. Folgendes konfigurieren:
+
+| Einstellung | Wert |
+|---|---|
+| Servername | `ShootingStudio` (oder beliebiger Name) |
+| Host | `[IP deines Smartphones – wird in der App angezeigt]` |
+| Port | `2121` |
+| Verzeichnis | `/` |
+| Benutzername | `anonymous` |
+| Passwort | *(leer lassen)* |
+| Passiver Modus | **Ein** |
+| FTPS | **Auto** (oder Ein) |
+
+### Schritt 3: Auto-Transfer aktivieren
+
+1. Navigiere zu: **Netzwerk** → **FTP-Übertragungsfunktion**
+2. **Auto-Transfer** auf **Ein** setzen
+3. Wähle aus, welche Dateitypen übertragen werden sollen (JPEG, RAW oder beide)
+
+### Schritt 4: Verbinden und fotografieren
+
+1. Starte den FTP-Server in der App (FTP-Button tippen)
+2. Auf der Kamera: **Netzwerk** → **FTP-Übertragungsfunktion** → **FTP-Verbinden**
+3. Die Kamera verbindet sich mit dem Smartphone
+4. Fotografiere – die Bilder werden automatisch in die Galerie der App übertragen
+
+## Tipps
+
+- **Direktverbindung:** Du kannst die Kamera direkt mit dem Smartphone verbinden ohne Router. Erstelle auf der Kamera einen WLAN-Access-Point und verbinde das Smartphone damit.
+- **RAW + JPEG:** Wenn du RAW+JPEG fotografierst, kannst du in den FTP-Einstellungen konfigurieren, welche Dateien übertragen werden
+- **Akku:** WLAN-Übertragung verbraucht mehr Akku – erwäge einen Akkugriff für lange Shootings
+- **FTPS:** Sony-Kameras unterstützen FTPS nativ. Der Explicit-FTP-Modus der App funktioniert nahtlos.
+
+## Bekannte Probleme
+
+- Keine für Sony Alpha Kameras mit diesem Setup bekannt
+
+## Screenshots
+
+<!-- Screenshots des Sony Kamera-FTP-Menüs hier einfügen -->
+<!-- Speichere in images/cameras/ und verlinke -->
+<!-- ![Sony FTP-Einstellungen](../../images/cameras/sony-alpha-ftp-einstellungen.png) -->
