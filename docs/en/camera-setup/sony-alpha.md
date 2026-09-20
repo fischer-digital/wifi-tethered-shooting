@@ -40,15 +40,15 @@
 
 1. Navigate to: **Network1** → **FTP Transfer Function** → **Server Settings**
 
-![Server Selection](../../../images/cameras/sony-01-server-selection.png)
+![Server Selection](../../../images/cameras/sony-a7iii/01-server-selection.png)
 
 2. Select a free server slot and configure it:
 
-![Server Detail](../../../images/cameras/sony-02-server-detail.png)
+![Server Detail](../../../images/cameras/sony-a7iii/02-server-detail.png)
 
 3. Open **Target Settings** and configure the following:
 
-![Target Settings](../../../images/cameras/sony-03-ftp-target-settings.png)
+![Target Settings](../../../images/cameras/sony-a7iii/03-ftp-target-settings.png)
 
 | Setting | Value |
 |---|---|
@@ -59,7 +59,7 @@
 
 4. Open **Directory Settings**:
 
-![Directory Settings](../../../images/cameras/sony-04-ftp-directory-settings.png)
+![Directory Settings](../../../images/cameras/sony-a7iii/04-ftp-directory-settings.png)
 
 | Setting | Value |
 |---|---|
@@ -71,7 +71,7 @@
 
 5. Open **User Info Settings**:
 
-![User Info](../../../images/cameras/sony-05-ftp-credentials.png)
+![User Info](../../../images/cameras/sony-a7iii/05-ftp-credentials.png)
 
 | Setting | Value |
 |---|---|
@@ -85,7 +85,7 @@
 
 1. Navigate to: **Network1** → Tab 3 → **Auto Transfer**
 
-![Auto Transfer](../../../images/cameras/sony-06-auto-transfer.png)
+![Auto Transfer](../../../images/cameras/sony-a7iii/06-auto-transfer.png)
 
 2. Set to **On**
 3. **RAW+J. Transfer Target** → `JPEG Only`
@@ -94,7 +94,7 @@
 
 4. Navigate to: **Image Quality/Size1** (1/14)
 
-![Image Quality](../../../images/cameras/sony-07-image-quality.png)
+![Image Quality](../../../images/cameras/sony-a7iii/07-image-quality.png)
 
 5. **File Format** → `RAW & JPEG` or `JPEG` (depending on your shooting workflow)
 6. **JPEG Quality** and **JPEG Size**: We recommend 6M and "Standard" as a good balance between quality and speed
