@@ -8,11 +8,10 @@
 
 ## Erster Start
 
-Beim ersten Öffnen der App werden Speicherberechtigungen benötigt:
+Beim ersten Öffnen der App werden Berechtigungen benötigt:
 
-1. Die App fragt nach **Dateizugriffsberechtigungen**
-2. Erteile die Berechtigung, damit die App Fotos speichern und lesen kann
-3. Unter Android 11+ musst du ggf. "Zugriff auf alle Dateien" in den Systemeinstellungen gewähren
+1. Die App fragt nach **Zugriff auf Fotos und Medien** (`READ_MEDIA_IMAGES`)
+2. Erteile die Berechtigung, damit die App die empfangenen Fotos in der Galerie anzeigen kann
 
 ## Kamera einrichten
 

@@ -8,11 +8,10 @@
 
 ## First Launch
 
-When you open the app for the first time, you'll need to grant storage permissions:
+When you open the app for the first time, permissions are required:
 
-1. The app will ask for **file access permissions**
-2. Grant the permission so the app can save and read photos
-3. On Android 11+, you may need to grant "All files access" via system settings
+1. The app will ask for **access to photos and media** (`READ_MEDIA_IMAGES`)
+2. Grant the permission so the app can display received photos in the gallery
 
 ## Setting Up Your Camera
 
