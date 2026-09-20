@@ -28,15 +28,15 @@ When you open the app for the first time, you'll need to grant storage permissio
 Each camera brand has a different menu structure. The general steps are:
 
 1. Go to your camera's **network/WLAN settings**
-2. Enable **WLAN** and connect to the **same network** as your device (or connect directly)
+2. Enable **WLAN** and connect to the **same network** as your device (or use your device's hotspot – see [Sony Alpha Guide](camera-setup/sony-alpha.md#step-1b-on-the-go))
 3. Find the **FTP transfer** or **image transfer** settings
 4. Enter the following:
    - **FTP Server / Host:** Your device's IP address (shown in the app)
    - **Port:** `2121`
-   - **Username:** as shown in the app (default: `camera`)
+   - **Username:** as shown in the app (default: `fischerdigital`)
    - **Password:** as shown in the app (auto-generated, can be changed in settings)
-   - **Passive Mode:** Yes (recommended)
-5. **Set the folder structure to "root only"** – do not use "like in camera" (which creates subfolders the app can't navigate)
+   - **Security Protocol / FTPS:** `On` (recommended – the app supports FTPS natively)
+5. **Set the directory hierarchy to "Standard"** – do not use "Same as camera" (which creates subfolders the app can't navigate)
 
 > 👉 See the [Camera Setup Guides](camera-setup/) for model-specific instructions!
 
@@ -64,6 +64,8 @@ You can find them in any file manager or gallery app.
 ## FTPS (Optional)
 
 For encrypted transfers, the app supports **FTPS (Explicit AUTH TLS)**. Most cameras that support FTPS will work automatically – no additional configuration needed on the app side.
+
+> ⚠️ **Note:** Cameras (e.g. Sony) may show a **"Root Certificate Error"** warning, as the FTP server can only use a self-signed SSL certificate locally. The transfer is still fully secured – confirm the warning with "Connect".
 
 See [FTPS / TLS](features/ftps.md) for details.
 

@@ -28,15 +28,15 @@ Beim ersten Öffnen der App werden Speicherberechtigungen benötigt:
 Jeder Kamerahersteller hat ein anderes Menü. Die allgemeinen Schritte sind:
 
 1. Gehe in die **WLAN-/Netzwerkeinstellungen** deiner Kamera
-2. Aktiviere **WLAN** und verbinde dich mit dem **selben Netzwerk** wie dein Gerät (oder verbinde dich direkt)
+2. Aktiviere **WLAN** und verbinde dich mit dem **selben Netzwerk** wie dein Gerät (oder nutze den Hotspot deines Geräts – siehe [Sony Alpha Anleitung](camera-setup/sony-alpha.md#schritt-1b-unterwegs))
 3. Finde die **FTP-Übertragungs-** oder **Bildübertragungs-Einstellungen**
 4. Gib folgende Werte ein:
    - **FTP-Server / Host:** Die IP-Adresse deines Geräts (wird in der App angezeigt)
    - **Port:** `2121`
-   - **Benutzername:** wie in der App angezeigt (Standard: `camera`)
+   - **Benutzername:** wie in der App angezeigt (Standard: `fischerdigital`)
    - **Passwort:** wie in der App angezeigt (wird automatisch generiert, kann in den Einstellungen geändert werden)
-   - **Passiver Modus:** Ja (empfohlen)
-5. **Ordnerstruktur auf "nur Wurzel" einstellen** – nicht "wie in der Kamera" verwenden (denn dann werden Unterordner erstellt, die die App nicht erkennen kann)
+   - **Sicherheitsprotokoll / FTPS:** `Ein` (empfohlen – die App unterstützt FTPS nativ)
+5. **Verzeichnishierarchie auf "Standard" einstellen** – nicht "wie in der Kamera" verwenden (denn dann werden Unterordner erstellt, die die App nicht erkennen kann)
 
 > 👉 Siehe die [Kamera-Anleitungen](camera-setup/) für modellspezifische Anweisungen!
 
@@ -64,6 +64,8 @@ Du findest sie in jedem Dateimanager oder jeder Galerie-App.
 ## FTPS (Optional)
 
 Für verschlüsselte Übertragungen unterstützt die App **FTPS (Explicit AUTH TLS)**. Die meisten Kameras, die FTPS unterstützen, funktionieren automatisch – keine zusätzliche Konfiguration auf der App-Seite nötig.
+
+> ⚠️ **Hinweis:** Kameras (z.B. Sony) zeigen möglicherweise eine **"Root-Zertifikat-Fehler"**-Warnung an, da der FTP-Server lokal nur ein selbst signiertes SSL-Zertifikat verwenden kann. Die Übertragung ist trotzdem vollständig abgesichert – bestätige die Warnung mit "Verbinden".
 
 Details unter [FTPS / TLS](features/ftps.md).
 
