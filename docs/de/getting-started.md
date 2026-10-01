@@ -6,12 +6,6 @@
 zum Download bereitgestellt. Sobald sie dort veröffentlicht ist, findet sich
 hier der direkte Link.
 
-Alternativ ist auch eine manuelle Installation per APK möglich:
-
-1. Lade die neueste APK herunter (Download-Link folgt)
-2. Auf deinem Android-Gerät: "Installation aus unbekannten Quellen" aktivieren, falls nötig
-3. APK installieren
-
 ## Erster Start
 
 Beim ersten Öffnen der App werden Berechtigungen benötigt:

@@ -5,12 +5,6 @@
 **Coming soon to Google Play:** The app will be available for download on the
 Google Play Store soon. We will add the direct link here once it is published.
 
-Alternatively, the APK can be installed manually:
-
-1. Download the latest APK (download link to follow)
-2. On your Android device, enable "Install from unknown sources" if prompted
-3. Install the APK
-
 ## First Launch
 
 When you open the app for the first time, permissions are required:
