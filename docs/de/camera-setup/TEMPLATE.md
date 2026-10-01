@@ -19,7 +19,7 @@
 
 - Kamera mit WLAN-FTP-Funktion
 - Gerät und Kamera im selben WLAN-Netzwerk (oder direkte WLAN-Verbindung)
-- FTP Tethered Shooting App installiert und gestartet
+- WiFi Tethered Shooting Studio App installiert und gestartet
 
 ### Kamera-Einstellungen
 

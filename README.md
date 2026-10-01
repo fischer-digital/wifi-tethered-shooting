@@ -1,4 +1,4 @@
-# FTP Tethered Shooting
+# WiFi Tethered Shooting Studio
 
 **[English](#english)** | **[Deutsch](#deutsch)**
 
@@ -24,7 +24,7 @@ An Android app that turns your device into a **wireless tethered shooting statio
 
 ### Quick Start
 
-1. Install the APK on your Android device
+1. Install the app on your Android device (coming soon to the Google Play Store – we will add the link here once it is published)
 2. Open the app and start the FTP server
 3. Configure your camera to send photos via WLAN-FTP to your device's IP address
 4. Take photos – they appear instantly in the gallery
@@ -88,7 +88,7 @@ Eine Android-App, die dein Gerät in eine **kabellose Tethering-Station** verwan
 
 ### Schnellstart
 
-1. Installiere die APK auf deinem Android-Gerät
+1. Installiere die App auf deinem Android-Gerät (in Kürze im Google Play Store – den Link ergänzen wir hier, sobald die App dort veröffentlicht ist)
 2. Öffne die App und starte den FTP-Server
 3. Konfiguriere deine Kamera, Fotos per WLAN-FTP an die IP-Adresse deines Geräts zu senden
 4. Fotografiere – die Bilder erscheinen sofort in der Galerie

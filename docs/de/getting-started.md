@@ -2,7 +2,13 @@
 
 ## Installation
 
-1. Lade die neueste APK von der Releases-Seite (demnächst verfügbar)
+**Demnächst im Google Play Store:** Die App wird in Kürze im Google Play Store
+zum Download bereitgestellt. Sobald sie dort veröffentlicht ist, findet sich
+hier der direkte Link.
+
+Alternativ ist auch eine manuelle Installation per APK möglich:
+
+1. Lade die neueste APK herunter (Download-Link folgt)
 2. Auf deinem Android-Gerät: "Installation aus unbekannten Quellen" aktivieren, falls nötig
 3. APK installieren
 
@@ -54,9 +60,9 @@ Jeder Kamerahersteller hat ein anderes Menü. Die allgemeinen Schritte sind:
 
 Fotos werden gespeichert unter:
 ```
-DCIM/FTP Tethered Shooting
+DCIM/WiFi Tethered Shooting Studio
 ```
-(voller Pfad: `/storage/emulated/0/DCIM/FTP Tethered Shooting`)
+(voller Pfad: `/storage/emulated/0/DCIM/WiFi Tethered Shooting Studio`)
 
 Du findest sie in jedem Dateimanager oder jeder Galerie-App.
 

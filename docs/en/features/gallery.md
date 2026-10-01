@@ -62,7 +62,7 @@ Photos are sorted with the **newest first** by default. When a new photo arrives
 
 | Property | Value |
 |---|---|
-| Storage location | `DCIM/FTP Tethered Shooting` |
+| Storage location | `DCIM/WiFi Tethered Shooting Studio` |
 | File naming | Uses original camera filename |
 | Cache | SQLite database for thumbnails, EXIF, ratings |
 | Cache cleanup | Automatic LRU eviction (>10,000 entries) |

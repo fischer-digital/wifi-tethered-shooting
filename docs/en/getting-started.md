@@ -2,7 +2,12 @@
 
 ## Installation
 
-1. Download the latest APK from the releases page (coming soon)
+**Coming soon to Google Play:** The app will be available for download on the
+Google Play Store soon. We will add the direct link here once it is published.
+
+Alternatively, the APK can be installed manually:
+
+1. Download the latest APK (download link to follow)
 2. On your Android device, enable "Install from unknown sources" if prompted
 3. Install the APK
 
@@ -54,9 +59,9 @@ Each camera brand has a different menu structure. The general steps are:
 
 Photos are saved to:
 ```
-DCIM/FTP Tethered Shooting
+DCIM/WiFi Tethered Shooting Studio
 ```
-(full path: `/storage/emulated/0/DCIM/FTP Tethered Shooting`)
+(full path: `/storage/emulated/0/DCIM/WiFi Tethered Shooting Studio`)
 
 You can find them in any file manager or gallery app.
 

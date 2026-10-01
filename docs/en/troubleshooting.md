@@ -41,14 +41,14 @@
 ### Camera sends files but app doesn't receive them
 
 - Check the FTP target folder on the camera – it should be `/` (root)
-- Verify the storage path in the app: `DCIM/FTP Tethered Shooting`
+- Verify the storage path in the app: `DCIM/WiFi Tethered Shooting Studio`
 - Check Android storage permissions (see below)
 
 ## Permission Issues
 
 ### "Storage access required" message
 
-1. Go to Android **Settings** → **Apps** → **FTP Tethered Shooting** → **Permissions**
+1. Go to Android **Settings** → **Apps** → **WiFi Tethered Shooting Studio** → **Permissions**
 2. Enable **Files and media** / **Storage** permission
 3. On Android 11+: Grant **"All files access"** (MANAGE_EXTERNAL_STORAGE)
 4. Restart the app

@@ -12,7 +12,7 @@ Die App enthält einen integrierten FTP-Server, der auf deinem Android-Gerät l�
 | Standardport | `2121` |
 | Authentifizierung | Anonym (kein Login erforderlich) |
 | Übertragungsmodus | Passiv |
-| Speicherpfad | `DCIM/FTP Tethered Shooting` |
+| Speicherpfad | `DCIM/WiFi Tethered Shooting Studio` |
 
 ## Server starten
 

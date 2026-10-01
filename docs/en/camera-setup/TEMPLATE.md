@@ -19,7 +19,7 @@
 
 - Camera with WLAN-FTP capability
 - Device and camera on the same WLAN network (or direct WLAN connection)
-- FTP Tethered Shooting app installed and running
+- WiFi Tethered Shooting Studio app installed and running
 
 ### Camera Settings
 

@@ -2,7 +2,7 @@
 
 ## Allgemein
 
-### Was ist FTP Tethered Shooting?
+### Was ist WiFi Tethered Shooting Studio?
 Eine Android-App, die dein Gerät in eine kabellose Tethering-Station verwandelt. Deine Kamera sendet Fotos per WLAN-FTP direkt an dein Gerät, wo sie in einer Live-Galerie erscheinen.
 
 ### Brauche ich eine Internetverbindung?
@@ -12,10 +12,10 @@ Nein. Alles läuft lokal in deinem WLAN. Du kannst sogar eine direkte WLAN-Verbi
 Die App funktioniert mit jeder Kamera, die **live WLAN-FTP-Übertragung während des Shootings** unterstützt (d.h. die Kamera sendet jedes Foto automatisch direkt nach dem Auslösen). Nicht alle Kameras mit WLAN-FTP-Unterstützung können das – zum Beispiel unterstützt die Sony A7III live FTP-Transfer, ältere Modelle wie die A7II jedoch möglicherweise nicht. Siehe die [Kamera-Anleitungen](camera-setup/) für getestete Modelle.
 
 ### Ist es kostenlos?
-Den aktuellen Preis findest du im [Google Play Store](https://play.google.com/store/apps/details?id=de.fischerdigital.shootingstudio).
+Die App wird in Kürze im Google Play Store verfügbar sein. Den aktuellen Preis findest du dann direkt dort im Store.
 
 ### Werden meine Fotos in die Cloud hochgeladen?
-Nein. Alle Fotos werden lokal auf deinem Android-Gerät gespeichert unter `DCIM/FTP Tethered Shooting`.
+Nein. Alle Fotos werden lokal auf deinem Android-Gerät gespeichert unter `DCIM/WiFi Tethered Shooting Studio`.
 
 ---
 
@@ -52,9 +52,9 @@ Das ist normal bei selbst-signierten Zertifikaten. Akzeptiere das Zertifikat –
 
 ### Wo werden Fotos gespeichert?
 ```
-DCIM/FTP Tethered Shooting
+DCIM/WiFi Tethered Shooting Studio
 ```
-(voller Pfad: `/storage/emulated/0/DCIM/FTP Tethered Shooting`)
+(voller Pfad: `/storage/emulated/0/DCIM/WiFi Tethered Shooting Studio`)
 Du kannst diesen Ordner mit jedem Dateimanager oder jeder Galerie-App erreichen.
 
 ### Kann ich den Speicherort ändern?

@@ -1,4 +1,4 @@
-# Contributing to FTP Tethered Shooting
+# Contributing to WiFi Tethered Shooting Studio
 
 **[English](#english)** | **[Deutsch](#deutsch)**
 
@@ -8,7 +8,7 @@
 
 ## English
 
-Thank you for your interest in contributing! This repository contains documentation and handles issue tracking for the FTP Tethered Shooting app.
+Thank you for your interest in contributing! This repository contains documentation and handles issue tracking for the WiFi Tethered Shooting Studio app.
 
 ### Ways to Contribute
 
@@ -55,7 +55,7 @@ Use the [Feature Request](../../issues/new?template=feature-request.md) issue te
 
 ## Deutsch
 
-Vielen Dank für dein Interesse an einem Beitrag! Dieses Repository enthält die Dokumentation und das Issue-Tracking für die FTP Tethered Shooting App.
+Vielen Dank für dein Interesse an einem Beitrag! Dieses Repository enthält die Dokumentation und das Issue-Tracking für die WiFi Tethered Shooting Studio App.
 
 ### Möglichkeiten zum Mitmachen
 

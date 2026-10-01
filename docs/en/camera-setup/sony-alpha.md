@@ -12,7 +12,7 @@
 
 - Sony Alpha camera with WLAN-FTP support (most models from A7III onwards – older models may not support live FTP transfer)
 - Device and camera on the same WLAN network
-- FTP Tethered Shooting app installed and running
+- WiFi Tethered Shooting Studio app installed and running
 
 ## Camera Setup
 

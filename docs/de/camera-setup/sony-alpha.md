@@ -12,7 +12,7 @@
 
 - Sony Alpha Kamera mit WLAN-FTP-Unterstützung (die meisten Modelle ab A7III – ältere Modelle unterstützen ggf. keinen live FTP-Transfer)
 - Gerät und Kamera im selben WLAN-Netzwerk
-- FTP Tethered Shooting App installiert und gestartet
+- WiFi Tethered Shooting Studio App installiert und gestartet
 
 ## Kamera einrichten
 

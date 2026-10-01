@@ -41,14 +41,14 @@
 ### Kamera sendet Dateien, aber die App empfängt sie nicht
 
 - Prüfe den FTP-Zielordner auf der Kamera – er sollte `/` (Wurzel) sein
-- Überprüfe den Speicherpfad in der App: `DCIM/FTP Tethered Shooting`
+- Überprüfe den Speicherpfad in der App: `DCIM/WiFi Tethered Shooting Studio`
 - Prüfe die Android-Speicherberechtigungen (siehe unten)
 
 ## Berechtigungsprobleme
 
 ### "Speicherzugriff erforderlich" Meldung
 
-1. Gehe zu Android **Einstellungen** → **Apps** → **FTP Tethered Shooting** → **Berechtigungen**
+1. Gehe zu Android **Einstellungen** → **Apps** → **WiFi Tethered Shooting Studio** → **Berechtigungen**
 2. Aktiviere **Dateien und Medien** / **Speicher** Berechtigung
 3. Unter Android 11+: Erteile **"Zugriff auf alle Dateien"** (MANAGE_EXTERNAL_STORAGE)
 4. Starte die App neu
