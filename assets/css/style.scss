@@ -12,6 +12,29 @@
   padding: 32px 10px 26px 10px;
 }
 
+/* Logo-Marke links neben Titel/Tagline – auf hellem Chip, damit die
+   dunkle Teal-Marke auf dem dunklen Header-Gradient sichtbar bleibt. */
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.header-logo {
+  box-sizing: border-box;
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+  padding: 8px;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+}
+
+.header-titles {
+  min-width: 0;
+}
+
 #project_title {
   font-size: 34px;
   letter-spacing: -0.5px;
@@ -28,5 +51,15 @@
 
   #project_tagline {
     font-size: 16px;
+  }
+
+  .header-brand {
+    gap: 12px;
+  }
+
+  .header-logo {
+    width: 52px;
+    height: 52px;
+    border-radius: 12px;
   }
 }
