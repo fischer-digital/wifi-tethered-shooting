@@ -1,0 +1,10 @@
+# GitHub Pages Konfiguration – wird nur genutzt, wenn Pages im Repo aktiviert ist
+# (Settings → Pages → Deploy from a branch → main → /)
+theme: jekyll-theme-slate
+title: WiFi Tethered Shooting Studio
+description: Live tethered shooting with your Android phone or tablet
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true

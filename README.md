@@ -52,6 +52,15 @@ Community-contributed guides for specific camera models:
 | Troubleshooting | [EN](docs/en/troubleshooting.md) | [DE](docs/de/troubleshooting.md) |
 | FAQ | [EN](docs/en/faq.md) | [DE](docs/de/faq.md) |
 
+### Support & Feedback
+
+**This repository is also the issue tracker for the app itself** – not just for
+these docs. Found a bug, miss a feature, or have a question about
+WiFi Tethered Shooting Studio?
+
+- **[Open an issue](https://github.com/fischer-digital/wifi-tethered-shooting/issues)** – bug reports, feature requests and questions are welcome
+- No GitHub account? Just send us an email (see the app's legal notice)
+
 ### Contributing
 
 We welcome contributions! Especially:
@@ -115,6 +124,15 @@ Von der Community beigetragene Anleitungen für spezifische Kameramodelle:
 | Galerie & Bewertungen | [EN](docs/en/features/gallery.md) | [DE](docs/de/features/gallery.md) |
 | Fehlerbehebung | [EN](docs/en/troubleshooting.md) | [DE](docs/de/troubleshooting.md) |
 | FAQ | [EN](docs/en/faq.md) | [DE](docs/de/faq.md) |
+
+### Support & Feedback
+
+**Dieses Repository dient gleichzeitig als Issue-Tracker für die App selbst** –
+nicht nur für diese Doku. Fehler gefunden, eine Funktion vermisst oder eine Frage
+zu WiFi Tethered Shooting Studio?
+
+- **[Issue erstellen](https://github.com/fischer-digital/wifi-tethered-shooting/issues)** – Fehlerberichte, Ideen und Fragen sind willkommen
+- Kein GitHub-Konto? Schreib uns einfach eine E-Mail (siehe Impressum in der App)
 
 ### Mitmachen
 
