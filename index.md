@@ -1,14 +1,8 @@
-# WiFi Tethered Shooting Studio
-
 **[English](#english)** | **[Deutsch](#deutsch)**
-
----
 
 <a name="english"></a>
 
 ## English
-
-### Live tethered shooting with your Android phone or tablet
 
 An Android app that turns your device into a wireless tethered shooting station.
 Connect your camera via WLAN-FTP and see every shot appear instantly in a live
@@ -30,13 +24,9 @@ This repository is also the issue tracker for the app itself – bug reports,
 feature requests and questions are welcome:
 [Open an issue](https://github.com/fischer-digital/wifi-tethered-shooting/issues)
 
----
-
 <a name="deutsch"></a>
 
 ## Deutsch
-
-### Live-Tethering mit deinem Android-Tablet oder -Smartphone
 
 Eine Android-App, die dein Gerät in eine kabellose Tethering-Station verwandelt.
 Verbinde deine Kamera per WLAN-FTP und sieh jedes Foto sofort in einer
