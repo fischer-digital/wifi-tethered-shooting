@@ -13,14 +13,16 @@ The app's gallery shows all JPG photos received from your camera in a fast, opti
 3. A thumbnail is generated and displayed in the grid
 4. Tap any photo for full-screen view with details
 
-### Auto-Sync
+### Live Mode & Review Mode
+
+The **Live Mode** button in the header controls what happens with new photos:
 
 | Mode | Polling Interval | Behavior |
 |---|---|---|
-| Live (default) | 1 second | New photos appear almost instantly |
-| Browse | 5 seconds | Less frequent checks, better for reviewing |
+| **Live Mode** (on) | 1 second | New photos appear almost instantly and open automatically in full-screen view – the screen stays on |
+| **Review Mode** (off) | 5 seconds | New photos are only added to the gallery – ideal for reviewing and culling |
 
-When a new photo arrives in Live mode, it's automatically shown in full-screen view.
+The status bar shows which mode is active ("Live mode activated" or "Review mode activated").
 
 ## Grid View
 

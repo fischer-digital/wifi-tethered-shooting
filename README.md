@@ -15,7 +15,7 @@ An Android app that turns your device into a **wireless tethered shooting statio
 ### Features
 
 - **FTP(S) Server** – Built-in FTP server (port 2121) with optional FTPS/TLS encryption
-- **Live Gallery** – Auto-sync with polling, new photos appear instantly
+- **Live Gallery** – Live mode with polling, new photos appear instantly
 - **Ratings & EXIF** – Star ratings, orientation, and metadata extraction
 - **Fast Thumbnails** – Native thumbnail generation with smart caching
 - **Multi-Camera Support** – Works with any WLAN-FTP capable camera (Sony Alpha, Canon EOS R, Nikon Z, and more)
@@ -88,7 +88,7 @@ Eine Android-App, die dein Gerät in eine **kabellose Tethering-Station** verwan
 ### Funktionen
 
 - **FTP(S)-Server** – Integrierter FTP-Server (Port 2121) mit optionaler FTPS/TLS-Verschlüsselung
-- **Live-Galerie** – Auto-Sync mit Polling, neue Fotos erscheinen sofort
+- **Live-Galerie** – Live-Mode mit Polling, neue Fotos erscheinen sofort
 - **Bewertungen & EXIF** – Sterne-Bewertungen, Orientierung und Metadaten-Extraktion
 - **Schnelle Thumbnails** – Native Thumbnail-Generierung mit intelligentem Caching
 - **Multi-Kamera-Unterstützung** – Funktioniert mit jeder WLAN-FTP-fähigen Kamera (Sony Alpha, Canon EOS R, Nikon Z und mehr)

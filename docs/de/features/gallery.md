@@ -13,14 +13,16 @@ Die Galerie der App zeigt alle von deiner Kamera empfangenen JPG-Fotos in einer 
 3. Ein Thumbnail wird generiert und im Raster angezeigt
 4. Tippe auf ein Foto für die Vollbildansicht mit Details
 
-### Auto-Sync
+### Live-Mode & Review-Mode
+
+Der **Live-Mode**-Button in der Kopfzeile entscheidet, was mit neuen Fotos passiert:
 
 | Modus | Polling-Intervall | Verhalten |
 |---|---|---|
-| Live (Standard) | 1 Sekunde | Neue Fotos erscheinen fast sofort |
-| Durchsuchen | 5 Sekunden | Weniger häufige Prüfungen, besser zum Durchblättern |
+| **Live-Mode** (aktiviert) | 1 Sekunde | Neue Fotos erscheinen sofort und öffnen sich automatisch im Vollbild – der Bildschirm bleibt dabei aktiv |
+| **Review-Mode** (nicht aktiviert) | 5 Sekunden | Neue Fotos werden nur zur Galerie hinzugefügt – ideal zum Nachbearbeiten und Durchblättern |
 
-Wenn im Live-Modus ein neues Foto eintrifft, wird es automatisch im Vollbildmodus angezeigt.
+Welcher Modus aktiv ist, zeigt die Statuszeile an („Live-Mode aktiviert“ bzw. „Review-Mode aktiviert“).
 
 ## Rasteransicht
 
